@@ -1,0 +1,26 @@
+{
+  "name": "playwright-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/castanedadev-edu/Playwright.git"
+  },
+  "keywords": [
+    "js",
+    "playwright"
+  ],
+  "author": "Rick C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/castanedadev-edu/Playwright/issues"
+  },
+  "homepage": "https://github.com/castanedadev-edu/Playwright#readme",
+  "dependencies": {
+    "playwright": "^1.30.0"
+  }
+}
