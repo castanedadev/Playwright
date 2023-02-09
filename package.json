@@ -22,5 +22,8 @@
   "homepage": "https://github.com/castanedadev-edu/Playwright#readme",
   "dependencies": {
     "playwright": "^1.30.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
   }
 }
